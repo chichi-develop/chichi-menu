@@ -12,6 +12,11 @@ www.example.com.              3592    IN      CNAME   YOUR-USERNAME.github.io.
 www3.chichi.co.jp.            3592    IN      CNAME   CNAME chichi-develop.github.io.
 ```
 
+## GitHubの設定
+
+- Settings => GitHub Pages => Custom domain : www3.chichi.co.jp
+- Settings => GitHub Pages => Custom domain => Enforce HTTPS : True
+
 ## URL
 
 - https://chichi-develop.github.io/chichi-menu/
