@@ -21,3 +21,6 @@ www3.chichi.co.jp.            3592    IN      CNAME   CNAME chichi-develop.githu
 
 - https://chichi-develop.github.io/chichi-menu/
 - https://www3.chichi.co.jp/chichi-menu/
+
+## 参考ページ
+- http://dotnsf.blog.jp/archives/1070857656.html
